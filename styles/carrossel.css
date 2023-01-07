@@ -104,7 +104,7 @@
     
 }
 
-@media screen and (min-width: 1728px) { 
+@media screen and (min-width: 1728px) {
     .carrossel__container {
         display: flex;
         margin: 0 20vw 3em 20vw;
@@ -133,6 +133,6 @@
 
     .card {
         width: 60%;
-        margin-left: 10em;
+        margin-left: 3em;
     }
 }
