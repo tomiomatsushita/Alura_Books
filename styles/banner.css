@@ -20,7 +20,7 @@
     background-color: transparent;
     border: 1px solid var(--white);
     color: var(--white);
-    border-radius: 20px;
+    border-radius: 24px;
     padding: 1em;
     width: 100%;
 }
@@ -55,7 +55,7 @@
     }
 
     .banner__pesquisa::placeholder {
-        background-position: 12em
+        background-position: 12em;
     }
 
     .banner {
